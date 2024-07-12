@@ -31,50 +31,50 @@ Courses offered by the Department of Computer Science and Engineering (CSE) at B
 <h2 align="center" id="level-2---term-1">Level 2 - Term 1</h2>
 
 ## **`CSE204` : Data Structures and Algorithms I-Sessional**
+  - **DSA-I Sessional Codes**
 
-  [![Anonto050/Data-Structures-and-Algorithms-I - GitHub](https://gh-card.dev/repos/Anonto050/CSE-204-DSA_Sessional.svg)](https://github.com/Anonto050/CSE-204-DSA_Sessional)
+    [![Anonto050/Data-Structures-and-Algorithms-I - GitHub](https://gh-card.dev/repos/Anonto050/CSE-204-DSA_Sessional.svg)](https://github.com/Anonto050/CSE-204-DSA_Sessional)
 
 ## **`CSE218` : Numerical Methods**
-
-  [![Anonto050/Numerical-Methods - GitHub](https://gh-card.dev/repos/Anonto050/CSE-218-Numerical_Methods.svg)](https://github.com/Anonto050/CSE-218-Numerical_Methods)
+  - **Numerical methods sessional codes**
+    
+    [![Anonto050/Numerical-Methods - GitHub](https://gh-card.dev/repos/Anonto050/CSE-218-Numerical_Methods.svg)](https://github.com/Anonto050/CSE-218-Numerical_Methods)
 
 <h2 align="center" id="level-2---term-2">Level 2 - Term 2</h2>
 
-- **CSE208 - Data Structures and Algorithms II-Sessional**
-    
-    [![Anonto050/Data-Structures-and-Algorithms-II - GitHub](https://gh-card.dev/repos/Anonto050/Data-Structures-and-Algorithms-II.svg)](https://github.com/Anonto050/Data-Structures-and-Algorithms-II)
+## **`CSE208` : Data Structures and Algorithms II-Sessional**
+  - **DSA-II Sessional Codes**
+      
+    [![Anonto050/Data-Structures-and-Algorithms-II - GitHub](https://gh-card.dev/repos/Anonto050/CSE-208-DSA2_codes.svg)](https://github.com/Anonto050/CSE-208-DSA2_codes)
 
-- **CSE216 - Database-Sessional**
-    - **Solution to the book `A brief introduction to Oracle SQL PLSQL`**
+## **`CSE216` : Database-Sessional**
+ 
+   - **Term project (RentaStay)**
 
-        [![Anonto050/A-brief-introduction-to-Oracle-SQL-PLSQL-solutions - GitHub](https://gh-card.dev/repos/Anonto050/A-brief-introduction-to-Oracle-SQL-PLSQL-solutions.svg)](https://github.com/Anonto050/A-brief-introduction-to-Oracle-SQL-PLSQL-solutions)
-
-    - **Term project (RentaStay)**
-
-        [![Anonto050/RentaStay - GitHub](https://gh-card.dev/repos/Anonto050/RentaStay.svg)](https://github.com/Anonto050/RentaStay)
+     [![Anonto050/RentaStay - GitHub](https://gh-card.dev/repos/Anonto050/RentaStay.svg)](https://github.com/Anonto050/RentaStay)
 
 <h2 align="center" id="level-3---term-1">Level 3 - Term 1</h2>
 
-- **CSE306 - Computer Architecture-Sessional**
+## **`CSE306` : Computer Architecture-Sessional**
 
-    [![Anonto050/CSE-306-Computer-Architecture-Sessional - GitHub](https://gh-card.dev/repos/Anonto050/CSE-306-Computer-Architecture-Sessional.svg)](https://github.com/Anonto050/CSE-306-Computer-Architecture)
+  [![Anonto050/CSE-306-Computer-Architecture-Sessional - GitHub](https://gh-card.dev/repos/Anonto050/CSE-306-Computer_Architecture.svg)](https://github.com/Anonto050/CSE-306-Computer_Architecture)
 
-- **CSE308 - Software Engineering-Sessional**
+## **`CSE308` : Software Engineering-Sessional**
 
-    [![Anonto050/Software-Engineering-Assignments - GitHub](https://gh-card.dev/repos/Anonto050/Software-Engineering-Assignments.svg)](https://github.com/Anonto050/CSE-308-Software_Engineering)
+  [![Anonto050/Software-Engineering-Assignments - GitHub](https://gh-card.dev/repos/Anonto050/CSE-308-Software-Engineering-Sessional.svg)](https://github.com/Anonto050/CSE-308-Software-Engineering-Sessional)
 
-- **CSE310 - Compiler-Sessional**
+## **`CSE310` : Compiler-Sessional**
 
-    [![Anonto050/A-C-Compiler - GitHub](https://gh-card.dev/repos/Anonto050/A-C-Compiler.svg)](https://github.com/Anonto050/CSE-310-Compiler)
+  [![Anonto050/A-C-Compiler - GitHub](https://gh-card.dev/repos/Anonto050/CSE-310-Compiler.svg)](https://github.com/Anonto050/CSE-310-Compiler)
 
-- **CSE316 - Microprocessors, Microcontrollers, and Embedded Systems-Sessional**
-    - **Assembly offlines, onlines, practices**
+## **`CSE316` : Microprocessors, Microcontrollers, and Embedded Systems-Sessional**
+  - **Assembly offlines, onlines, practices**
 
-        [![Anonto050/Assembly-8086-Codes - GitHub](https://gh-card.dev/repos/Anonto050/Assembly-8086-Codes.svg)](https://github.com/Anonto050/CSE-316-Microprocessors-Microcontrollers-and-Embedded-Systems)
+    [![Anonto050/Assembly-8086-Codes - GitHub](https://gh-card.dev/repos/Anonto050/Assembly-8086-Codes.svg)](https://github.com/Anonto050/CSE-316-Microprocessors-Microcontrollers-and-Embedded-Systems)
     
-    - **Term project (Laser Security System)**
+  - **Term project (Laser Security System)**
 
-        [![Anonto050/Laser-Security-System-With-Arduino - GitHub](https://gh-card.dev/repos/Anonto050/Laser-Security-System-With-Arduino.svg)](https://github.com/Anonto050/Laser-Security-System-With-Arduino)
+    [![Anonto050/Laser-Security-System-With-Arduino - GitHub](https://gh-card.dev/repos/Anonto050/Laser-Security-System-With-Arduino.svg)](https://github.com/Anonto050/Laser-Security-System-With-Arduino)
 
 <h2 align="center" id="level-3---term-2">Level 3 - Term 2</h2>
 
@@ -110,12 +110,12 @@ Courses offered by the Department of Computer Science and Engineering (CSE) at B
 
 ## **`CSE 406` : Computer Security Sessional**
 
-[![Anonto050/CSE406-Computer-Security - GitHub](https://gh-card.dev/repos/Anonto050/CSE406-Computer-Security.svg)](https://github.com/Anonto050/CSE406-Computer-Security)
+  [![Anonto050/CSE406-Computer-Security - GitHub](https://gh-card.dev/repos/Anonto050/CSE-406-Computer-Security.svg)](https://github.com/Anonto050/CSE-406-Computer-Security)
 
 ## **`CSE 410` : Computer Graphics**
 
-[![Anonto050/CSE410-Computer-Graphics - GitHub](https://gh-card.dev/repos/Anonto050/CSE410-Computer-Graphics.svg)](https://github.com/Anonto050/CSE410-Computer-Graphics)
+  [![Anonto050/CSE410-Computer-Graphics - GitHub](https://gh-card.dev/repos/Anonto050/CSE-410-Computer-Graphics.svg)](https://github.com/Anonto050/CSE-410-Computer-Graphics)
 
 ## **`CSE 408` : Software Development**
 
-[![Anonto050/SyncInc - GitHub](https://gh-card.dev/repos/Anonto050/SyncInc.svg?fullname=)](https://github.com/Anonto050/SyncInc)
+  [![Anonto050/SyncInc - GitHub](https://gh-card.dev/repos/Anonto050/SyncInc.svg?fullname=)](https://github.com/Anonto050/SyncInc)
