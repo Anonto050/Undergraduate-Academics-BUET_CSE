@@ -13,6 +13,10 @@ Courses offered by the Department of Computer Science and Engineering (CSE) at B
 <h2 align="center" id="level-1---term-1">Level 1 - Term 1</h2>
 
 ## **`CSE102` : Structured Programming Language-Sessional**
+  - **Sessional Codes**
+
+    [![Anonto050/CSE-102-C_Programming-Sessional](https://gh-card.dev/repos/Anonto050/CSE-102-C_Programming-Sessional.svg)](https://github.com/Anonto050/CSE-102-C_Programming-Sessional)
+
   - **Term project (Catch The Egg)**
 
     [![Anonto050/C-iGraphics-Project-CATCH-THE-EGG](https://gh-card.dev/repos/Anonto050/C-iGraphics-Project-CATCH-THE-EGG.svg)](https://github.com/Anonto050/C-iGraphics-Project-CATCH-THE-EGG)
@@ -26,13 +30,13 @@ Courses offered by the Department of Computer Science and Engineering (CSE) at B
 
 <h2 align="center" id="level-2---term-1">Level 2 - Term 1</h2>
 
-- **CSE204 - Data Structures and Algorithms I-Sessional**
+## **`CSE204` : Data Structures and Algorithms I-Sessional**
 
-    [![Anonto050/Data-Structures-and-Algorithms-I - GitHub](https://gh-card.dev/repos/Anonto050/Data-Structures-and-Algorithms-I.svg)](https://github.com/Anonto050/Data-Structures-and-Algorithms-I)
+  [![Anonto050/Data-Structures-and-Algorithms-I - GitHub](https://gh-card.dev/repos/Anonto050/CSE-204-DSA_Sessional.svg)](https://github.com/Anonto050/CSE-204-DSA_Sessional)
 
-- **CSE218 - Numerical Methods**
+## **`CSE218` : Numerical Methods**
 
-    [![Anonto050/Numerical-Methods - GitHub](https://gh-card.dev/repos/Anonto050/Numerical-Methods.svg)](https://github.com/Anonto050/Numerical-Methods)
+  [![Anonto050/Numerical-Methods - GitHub](https://gh-card.dev/repos/Anonto050/CSE-218-Numerical_Methods.svg)](https://github.com/Anonto050/CSE-218-Numerical_Methods)
 
 <h2 align="center" id="level-2---term-2">Level 2 - Term 2</h2>
 
@@ -101,6 +105,8 @@ Courses offered by the Department of Computer Science and Engineering (CSE) at B
 - **Demo Website on Estimation**
 
     [![Anonto050/Creative-Production-Management-Website - GitHub](https://gh-card.dev/repos/Anonto050/Creative-Production-Management-Website.svg)](https://github.com/Anonto050/Creative-Production-Management-Website)
+
+<h2 align="center" id="level-4---term-1">Level 4 - Term 1</h2>
 
 ## **`CSE 406` : Computer Security Sessional**
 
