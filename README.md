@@ -118,4 +118,4 @@ Courses offered by the Department of Computer Science and Engineering (CSE) at B
 
 ## **`CSE 408` : Software Development**
 
-  [![Anonto050/SyncInc - GitHub](https://gh-card.dev/repos/Anonto050/SyncInc.svg?fullname=)](https://github.com/Anonto050/SyncInc)
+  [![Anonto050/CSE-408-Software-Development - GitHub](https://gh-card.dev/repos/Anonto050/CSE-408-Software-Development.svg)](https://github.com/Anonto050/CSE-408-Software-Development)
