@@ -49,9 +49,9 @@ Courses offered by the Department of Computer Science and Engineering (CSE) at B
 
 ## **`CSE216` : Database-Sessional**
  
-   - **Term project (RentaStay)**
+   - **Term project (Shikho - An Online Learning Platform)**
 
-     [![Anonto050/RentaStay - GitHub](https://gh-card.dev/repos/Anonto050/RentaStay.svg)](https://github.com/Anonto050/RentaStay)
+     [![Anonto050/Shikho - GitHub](https://gh-card.dev/repos/Anonto050/Shikho.svg)](https://github.com/Anonto050/Shikho)
 
 <h2 align="center" id="level-3---term-1">Level 3 - Term 1</h2>
 
@@ -78,23 +78,24 @@ Courses offered by the Department of Computer Science and Engineering (CSE) at B
 
 <h2 align="center" id="level-3---term-2">Level 3 - Term 2</h2>
 
-- **CSE314 - Operating Systems-Sessional**
+## **`CSE314` - Operating Systems-Sessional**
     
+  - **Bash scripting codes and all offline assignments on Operating System** 
+
     [![Anonto050/CSE314-Operating-System-Sessional - GitHub](https://gh-card.dev/repos/Anonto050/CSE314-Operating-System-Sessional.svg)](https://github.com/Anonto050/CSE-314-Operating-System-Sessional)
 
-- **CSE318 - Artificial Intelligence-Sessional**
+## **`CSE318` - Artificial Intelligence-Sessional**
+
+  - **Contains all the offline codes of CSE318 AI Sessional course**
 
     [![Anonto050/CSE318-AI-Sessional - GitHub](https://gh-card.dev/repos/Anonto050/CSE-318-Artificial_Intelligence.svg)](https://github.com/Anonto050/CSE-318-Artificial_Intelligence)
 
-- **CSE322 - Computer Networks-Sessional**
+## **`CSE322` - Computer Networks-Sessional**
     
-    - **Cisco Packet Tracer, Socket Programming, NS2, offlines, onlines, practices**
+  - **Socket Programming, NS3, Error correction codes offlines onlines, practices**
 
-        [![Anonto050/CSE322-Computer-Networks-Sessional - GitHub](https://gh-card.dev/repos/Anonto050/CSE-322-Computer_Networks.svg)](https://github.com/Anonto050/CSE-322-Computer_Networks)
+    [![Anonto050/CSE322-Computer-Networks-Sessional - GitHub](https://gh-card.dev/repos/Anonto050/CSE-322-Computer_Networks.svg)](https://github.com/Anonto050/CSE-322-Computer_Networks)
 
-    - **Term project (Flexible Random Early Detection simulation in NS2)**
-
-        [![Anonto050/CSE322-Computer-Networking-Project-FXRED-Implementation-In-NS2 - GitHub](https://gh-card.dev/repos/Anonto050/CSE322-Computer-Networking-Project-FXRED-Implementation-In-NS2.svg)](https://github.com/Anonto050/CSE-322-Computer_Networks)
 
 ## **`CSE 326` : Information System Design-Sessional**
 
