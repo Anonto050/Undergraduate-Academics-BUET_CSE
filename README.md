@@ -68,13 +68,13 @@ Courses offered by the Department of Computer Science and Engineering (CSE) at B
   [![Anonto050/A-C-Compiler - GitHub](https://gh-card.dev/repos/Anonto050/CSE-310-Compiler.svg)](https://github.com/Anonto050/CSE-310-Compiler)
 
 ## **`CSE316` : Microprocessors, Microcontrollers, and Embedded Systems-Sessional**
-  - **Assembly offlines, onlines, practices**
+  - **Assembly and Microcontroller offlines, onlines, practices**
 
-    [![Anonto050/Assembly-8086-Codes - GitHub](https://gh-card.dev/repos/Anonto050/Assembly-8086-Codes.svg)](https://github.com/Anonto050/CSE-316-Microprocessors-Microcontrollers-and-Embedded-Systems)
+    [![Anonto050/CSE-316-Microprocessors-Microcontrollers-and-Embedded-Systems - GitHub](https://gh-card.dev/repos/Anonto050/CSE-316-Microprocessors-Microcontrollers-and-Embedded-Systems.svg)](https://github.com/Anonto050/CSE-316-Microprocessors-Microcontrollers-and-Embedded-Systems)
     
-  - **Term project (Laser Security System)**
+  - **Term project (Maguire in the Middle)**
 
-    [![Anonto050/Laser-Security-System-With-Arduino - GitHub](https://gh-card.dev/repos/Anonto050/Laser-Security-System-With-Arduino.svg)](https://github.com/Anonto050/Laser-Security-System-With-Arduino)
+    [![Anonto050/Maguire-in-the-Middle - GitHub](https://gh-card.dev/repos/Anonto050/Maguire-in-the-Middle.svg)](https://github.com/Anonto050/Maguire-in-the-Middle)
 
 <h2 align="center" id="level-3---term-2">Level 3 - Term 2</h2>
 
