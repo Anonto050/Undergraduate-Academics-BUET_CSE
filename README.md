@@ -99,13 +99,10 @@ Courses offered by the Department of Computer Science and Engineering (CSE) at B
 
 ## **`CSE 326` : Information System Design-Sessional**
 
-- **Scope Fixation, BPMN, Mock UI, Class Diagram, ERD, Collaboration Diagram, Sequence Diagram, State Diagram**
+- **BPMN, Mock UI, Class Diagram, ERD, Collaboration Diagram, Sequence Diagram, State Diagram**
 
-    [![Anonto050/Creative-Production-Management - GitHub](https://gh-card.dev/repos/Anonto050/Creative-Production-Management.svg)](https://github.com/Anonto050/Creative-Production-Management)
+    [![Anonto050/CSE-326-ISD-Sessional - GitHub](https://gh-card.dev/repos/Anonto050/CSE-326-ISD-Sessional.svg)](https://github.com/Anonto050/CSE-326-ISD-Sessional)
     
-- **Demo Website on Estimation**
-
-    [![Anonto050/Creative-Production-Management-Website - GitHub](https://gh-card.dev/repos/Anonto050/Creative-Production-Management-Website.svg)](https://github.com/Anonto050/Creative-Production-Management-Website)
 
 <h2 align="center" id="level-4---term-1">Level 4 - Term 1</h2>
 
