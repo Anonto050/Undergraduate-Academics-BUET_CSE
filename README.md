@@ -32,7 +32,7 @@ Courses offered by the Department of Computer Science and Engineering (CSE) at B
     
   - **Bash scripting codes and all offline assignments on Operating System** 
 
-    [![Anonto050/CSE314-Operating-System-Sessional - GitHub](https://gh-card.dev/repos/Anonto050/CSE314-Operating-System-Sessional.svg)](https://github.com/Anonto050/CSE-314-Operating-System-Sessional)
+    [![Anonto050/CSE314-Operating-System-Sessional - GitHub](https://gh-card.dev/repos/Anonto050/CSE-314-Operating_System.svg)](https://github.com/Anonto050/CSE-314-Operating_System)
 
 ## **`CSE318` - Artificial Intelligence-Sessional**
 
