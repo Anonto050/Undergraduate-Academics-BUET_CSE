@@ -3,6 +3,7 @@ Courses offered by the Department of Computer Science and Engineering (CSE) at B
 
 ## Table of Contents
 
+- [Level 4 - Term 2](#level-4---term-2)
 - [Level 4 - Term 1](#level-4---term-1)
 - [Level 3 - Term 2](#level-3---term-2)
 - [Level 3 - Term 1](#level-3---term-1)
@@ -10,6 +11,17 @@ Courses offered by the Department of Computer Science and Engineering (CSE) at B
 - [Level 2 - Term 1](#level-2---term-1)
 - [Level 1 - Term 2](#level-1---term-2)
 - [Level 1 - Term 1](#level-1---term-1)
+
+<h2 align="center" id="level-4---term-2">Level 4 - Term 2</h2>
+
+## **`CSE 412` : Simulation and Modeling Sessional**
+
+  [![Anonto050/CSE412-Simulation-and-Modeling-Sessional - GitHub](https://gh-card.dev/repos/Anonto050/CSE-412-Simulation-and-Modeling.svg)](https://github.com/Anonto050/CSE-412-Simulation-and-Modeling)
+
+## **`CSE 472` : Machine Learning Sessional**
+
+  [![Anonto050/CSE472-Machine-Learning-Sessional - GitHub](https://gh-card.dev/repos/Anonto050/CSE-472-Machine-Learning.svg)](https://github.com/Anonto050/CSE-472-Machine-Learning)
+
 
 <h2 align="center" id="level-4---term-1">Level 4 - Term 1</h2>
 
